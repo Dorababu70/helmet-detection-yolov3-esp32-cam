@@ -48,7 +48,7 @@ Helmet-Detection/
   👉 [Download from Google Drive](https://drive.google.com/file/d/1I3br6Ih83ATBshdZFcP1cBkZjEj0Ol6U/view?usp=drive_link)
 
 - 🧠 **Trained CNN Model** (`helmet-nonhelmet_cnn.h5`)  
-  👉 [Download from Google Drive](hhttps://drive.google.com/file/d/1COHGucmS21SA0EvPnPBTl613lZeJsSxi/view?usp=drive_link)
+  👉 [Download from Google Drive](https://drive.google.com/file/d/1COHGucmS21SA0EvPnPBTl613lZeJsSxi/view?usp=drive_link)
 
 > After downloading, place the files in the corresponding folders (`YOLO_Files/`, `Model/`, etc.)
 
